@@ -1,2 +1,4 @@
 # UICollectionViewSelector
-Demo for UICollectionView select many item, and deselect all ect.
+Demo for UICollectionView select many item, and remove action etc.
+
+
